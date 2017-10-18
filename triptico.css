@@ -1,0 +1,64 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+h2,h3 {
+	text-align: center;
+}
+img {
+	margin-top: 30px;
+	width: 250px;
+	height: 100px;
+}
+.margen{
+	margin: 10px;
+	text-align: justify;
+}
+.margen1{
+	margin: 20px;
+	text-align: justify;
+}
+.tabla {
+	position: relative;
+}
+.cabeza {
+	border: 1px solid black;
+	background: #FFBF00;
+	padding: 1px 155px 1px;
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+	left: 20px;
+}
+.cuerpo {
+	position: absolute;
+	top: 70px;
+	left: 20px;
+}
+.columna1 {
+	border: 1px solid black;
+	width: 250px;
+	height: 350px;
+	float: left;
+}
+.columna2 {
+	border: 1px solid black;
+	width: 250px;
+	height: 350px;
+	float: left;
+}
+.columna3 {
+	border: 1px solid black;
+	width: 250px;
+	height: 350px;
+	float: left;
+}
+.pie {
+	border: 1px solid black;
+	background: #FFBF00;
+	padding:0 227px 0;
+	display: inline;
+	position: absolute;
+	top: 420px;
+	left: 20px;
+}
